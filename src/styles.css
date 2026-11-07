@@ -3968,11 +3968,6 @@ textarea,
 ========================================== */
 
 @media (max-width: 760px) {
-  .spa-hero {
-    margin: 12px;
-    border-radius: 20px;
-  }
-
   .spa-benefits {
     margin: 12px;
     border-radius: 16px;
